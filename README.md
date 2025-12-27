@@ -8,7 +8,7 @@ Currently seeking opportunities as a Software Engineer where I can contribute to
 💻 Tech Stack
 
 Languages:
-Java | TypeScript | Go | Python | JavaScript | Dart | C | C++ | PHP | SQL
+Java | TypeScript | Python | JavaScript | Dart | C | C++ | PHP | SQL
 
 Frameworks & Libraries:
 Spring Boot | Spring MVC | Spring Security | React | Node.js | Express.js | Flutter
