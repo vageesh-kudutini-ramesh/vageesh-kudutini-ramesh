@@ -59,7 +59,9 @@ Specializations:
 I'm open to:
 
 💼 Full-time opportunities in software engineering
+
 🤝 Collaborations on interesting projects
+
 💡 Knowledge sharing and learning together
 
 
@@ -68,8 +70,11 @@ I'm open to:
 When I'm not coding, you'll find me:
 
 🏏 Playing cricket (former Wicket-Keeper Batsman for my college team)
+
 🏸 On the badminton court
+
 🎱 Playing billiards
+
 🎬 Creating and editing videos (shorts & long-form content)
 
 📫 How to Reach Me
