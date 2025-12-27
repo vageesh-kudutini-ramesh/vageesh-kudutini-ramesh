@@ -1,6 +1,7 @@
 Hi there, I'm Vageesh 👋
 
 🚀 About Me
+
 I'm a Full-Stack Developer specializing in backend development and cloud architecture, recently graduated with a Master's in Computer Science from Northeastern University. I build scalable, efficient applications and enjoy solving complex problems through code.
 Currently seeking opportunities as a Software Engineer where I can contribute to innovative projects and continue growing as a developer.
 
@@ -46,6 +47,7 @@ Specializations:
 
 
 🤝 Let's Connect
+
 I'm open to:
 
 💼 Full-time opportunities in software engineering
@@ -54,6 +56,7 @@ I'm open to:
 
 
 🎯 Beyond Code
+
 When I'm not coding, you'll find me:
 
 🏏 Playing cricket (former Wicket-Keeper Batsman for my college team)
