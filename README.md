@@ -8,24 +8,31 @@ Currently seeking opportunities as a Software Engineer where I can contribute to
 💻 Tech Stack
 
 Languages:
+
 Java | TypeScript | Python | JavaScript | Dart | C | C++ | PHP | SQL
 
 Frameworks & Libraries:
+
 Spring Boot | Spring MVC | Spring Security | React | Node.js | Express.js | Flutter
 
 Databases:
+
 PostgreSQL | MySQL | MongoDB | Firebase | DynamoDB
 
 Cloud & DevOps:
+
 AWS (EC2, S3, RDS, Lambda, IAM, DynamoDB) | Docker | CI/CD | Microservices | Linux/UNIX
 
 Web Technologies:
+
 HTML5 | CSS3 | RESTful APIs | Bootstrap | jQuery | JSP
 
 Tools:
+
 Git | Postman | Shell Scripting
 
 Specializations:
+
 - Backend Development & Microservices Architecture
 - Cloud Infrastructure & Migration
 - Full-Stack Web Applications
@@ -35,6 +42,7 @@ Specializations:
 🎓 Certifications
 
 ☁️ AWS Certified Cloud Practitioner (CCP)
+
 🔶 Oracle Cloud Infrastructure Foundations Associate
 
 
