@@ -21,7 +21,7 @@ PostgreSQL | MySQL | MongoDB | Firebase | DynamoDB
 
 Cloud & DevOps:
 
-AWS (EC2, S3, RDS, Lambda, IAM, DynamoDB) | Docker | CI/CD | Microservices | Linux/UNIX
+AWS  | Docker | CI/CD | Microservices | Linux/UNIX
 
 Web Technologies:
 
